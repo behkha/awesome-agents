@@ -4,16 +4,16 @@
 ---
 
 ## Table of Contents  
-- [Productivity](#productivity)  
-- [Communication](#communication)  
-- [Health & Wellness](#health--wellness)  
-- [Finance](#finance)  
-- [Education](#education)  
-- [Entertainment](#entertainment)  
-- [Home Management](#home-management)  
-- [Travel](#travel)  
-- [Shopping](#shopping)  
-- [Personal Development](#personal-development)  
+- [Productivity](#productivity-)  
+- [Communication](#communication-)  
+- [Health & Wellness](#health--wellness-)  
+- [Finance](#finance-)  
+- [Education](#education-)  
+- [Entertainment](#entertainment-)  
+- [Home Management](#home-management-)  
+- [Travel](#travel-)  
+- [Shopping](#shopping-)  
+- [Personal Development](#personal-development-)  
 
 ---
 
