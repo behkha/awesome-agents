@@ -18,7 +18,7 @@
 ---
 
 ### Productivity 📅  
-<details>  
+<details open>  
 <summary>Expand</summary>  
 
 - **Task Scheduler Agent**  
@@ -46,7 +46,7 @@
 ---
 
 ### Communication 📱  
-<details>  
+<details open>  
 <summary>Expand</summary>  
 
 - **Social Media Manager Agent**  
@@ -64,7 +64,7 @@
 ---
 
 ### Health & Wellness 🩺  
-<details>  
+<details open>  
 <summary>Expand</summary>  
 
 - **Fitness Tracker Agent**  
@@ -82,7 +82,7 @@
 ---
 
 ### Finance 💰  
-<details>  
+<details open>  
 <summary>Expand</summary>  
 
 - **Budget Planner Agent**  
@@ -100,7 +100,7 @@
 ---
 
 ### Education 📚  
-<details>  
+<details open>  
 <summary>Expand</summary>  
 
 - **Language Learning Assistant Agent**  
@@ -118,7 +118,7 @@
 ---
 
 ### Entertainment 🎵  
-<details>  
+<details open>  
 <summary>Expand</summary>  
 
 - **Music Recommender Agent**  
@@ -136,7 +136,7 @@
 ---
 
 ### Home Management 🏠  
-<details>  
+<details open>  
 <summary>Expand</summary>  
 
 - **Smart Home Controller Agent**  
@@ -154,7 +154,7 @@
 ---
 
 ### Travel ✈️  
-<details>  
+<details open>  
 <summary>Expand</summary>  
 
 - **Trip Planner Agent**  
@@ -172,7 +172,7 @@
 ---
 
 ### Shopping 🛍️  
-<details>  
+<details open>  
 <summary>Expand</summary>  
 
 - **Price Comparison Agent**  
@@ -190,7 +190,7 @@
 ---
 
 ### Personal Development 🌱  
-<details>  
+<details open>  
 <summary>Expand</summary>  
 
 - **Habit Tracker Agent**  
@@ -205,21 +205,6 @@
   *APIs*: [LinkedIn API](https://learn.microsoft.com/en-us/linkedin/) [[9]], [Glassdoor API](https://www.glassdoor.com/developer/)  
 </details>  
 
----
-
-## Usage 🛠️  
-```python  
-# Example: Use the Trello API to fetch a board  
-import requests  
-
-response = requests.get(  
-    "https://api.trello.com/1/boards/[board_id]",  
-    params={"key": "YOUR_API_KEY", "token": "YOUR_TOKEN"}  
-)  
-print(response.json())  
-```  
-
----
 
 ## Contributing 🤝  
 Pull requests are welcome! For major changes, please open an issue first.  
